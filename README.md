@@ -13,6 +13,7 @@
         mpg.setDataSource(dsc);
         
 同样你需要在getTableNam里修改数据库名与账号密码
+        
         String url = "jdbc:mysql://localhost:3306/seckill";
         String username = "root";
         String password = "123456";
